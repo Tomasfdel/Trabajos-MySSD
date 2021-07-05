@@ -1,0 +1,3 @@
+Para cada modelo de este problema, se necesitan definir las siguientes constantes en Scilab:
+ - simpleRobot: h, L.
+ - controlRobot: h, L, kV, kPhi, kY, L0, vRef, yRef.

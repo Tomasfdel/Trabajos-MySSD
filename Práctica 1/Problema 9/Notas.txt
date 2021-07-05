@@ -1,0 +1,4 @@
+Para cada modelo de este problema, se necesitan definir las siguientes constantes en Scilab:
+ - SIR: N, alpha, gamma, I0.
+ - twoPopulationSIR: N, alpha, gamma, I0, m.
+ - multiPopulationSIR: N, alpha, gamma, m.
